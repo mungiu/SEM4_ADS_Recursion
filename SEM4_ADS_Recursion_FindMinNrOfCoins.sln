@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.29306.81
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEM4_ADS_Recursion_FindMinNrOfCoins", "SEM4_ADS_Recursion_FindMinNrOfCoins\SEM4_ADS_Recursion_FindMinNrOfCoins.csproj", "{F71C1852-6F1C-42D6-8763-5F3A5573D3B6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEM4_ADS_Recursion_SudokuSolver", "SEM4_ADS_Recursion_SudokuSolver\SEM4_ADS_Recursion_SudokuSolver.csproj", "{B1CABE71-7F48-46FF-A533-55FEADA78210}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEM$_ADS_RecursionANDbacktracking_NQueensSolver", "SEM$_ADS_RecursionANDbacktracking_NQueensSolver\SEM$_ADS_RecursionANDbacktracking_NQueensSolver.csproj", "{E9827FF5-BDBB-4278-90C8-C8B65AE20CCF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{F71C1852-6F1C-42D6-8763-5F3A5573D3B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F71C1852-6F1C-42D6-8763-5F3A5573D3B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F71C1852-6F1C-42D6-8763-5F3A5573D3B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1CABE71-7F48-46FF-A533-55FEADA78210}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1CABE71-7F48-46FF-A533-55FEADA78210}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1CABE71-7F48-46FF-A533-55FEADA78210}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1CABE71-7F48-46FF-A533-55FEADA78210}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9827FF5-BDBB-4278-90C8-C8B65AE20CCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9827FF5-BDBB-4278-90C8-C8B65AE20CCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9827FF5-BDBB-4278-90C8-C8B65AE20CCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9827FF5-BDBB-4278-90C8-C8B65AE20CCF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
